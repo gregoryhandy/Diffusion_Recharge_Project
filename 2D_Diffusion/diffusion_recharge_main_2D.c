@@ -64,7 +64,7 @@ int main()
 	L_y=0.1;
 	
 	// receptor starts in the middle of the x direction
-	x_start_loc = L_x*0.05;
+	x_start_loc = L_x*0.5;
 	y_start_loc = L_y;
 	
     // time step
